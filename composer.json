@@ -20,7 +20,7 @@
         "symfony/symfony": "~2.1",
         "sonata-project/doctrine-extensions": "dev-master",
         "sonata-project/easy-extends-bundle": "2.1.*",
-        "sonata-project/core-bundle": "~2.2@dev,>2.2.4"
+        "sonata-project/core-bundle": "dev-master"
     },
     "suggest": {
         "sonata-project/doctrine-orm-admin-bundle": "2.2.*",
